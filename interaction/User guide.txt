@@ -1,0 +1,121 @@
+OPERATING MODES
+
+The ESP32 OLED Desk Bot has seven operating modes.
+Use a DOUBLE TAP on the touch pad to switch between modes.
+
+ALIVE MODE (DEFAULT)
+
+Description:
+This is the main personality mode of the Desk Bot.
+
+Behavior:
+
+Natural blinking
+
+Random yawning
+
+Looks around occasionally
+
+Falls asleep if not interacted with
+
+User Interaction:
+
+Single Tap : Cute squint reaction
+
+Long Press : Being "petted"
+
+No interaction (~1 minute) : Enters sleep mode
+
+LOVE MODE
+
+Description:
+Displays affection and happiness.
+
+Behavior:
+
+Heart-shaped eyes
+
+Gentle pulsing animation
+
+User Interaction:
+
+No touch interaction in this mode
+
+ANGRY MODE
+
+Description:
+Shows irritation or anger.
+
+Behavior:
+
+Narrow angry eyes
+
+Shaking animation
+
+User Interaction:
+
+Single Tap : Annoyed reaction
+
+Long Press : Furious state with stronger shaking
+
+SAD MODE
+
+Description:
+Expresses sadness and emotion.
+
+Behavior:
+
+Droopy eyes
+
+Falling tear animation
+
+User Interaction:
+
+Long Press : Comfort mode (tears stop)
+
+DIZZY MODE
+
+Description:
+A visual-only animation mode.
+
+Behavior:
+
+Rotating spiral eyes
+
+Continuous spinning animation
+
+User Interaction:
+
+No touch interaction in this mode
+
+CLOCK MODE
+
+Description:
+Displays the current time.
+
+Behavior:
+
+12-hour time format (AM / PM)
+
+Time automatically synced from the internet
+
+Requirements:
+
+Wi-Fi connection required
+
+WEATHER MODE
+
+Description:
+Shows current weather information.
+
+Behavior:
+
+Displays city name
+
+Shows temperature in degrees Celsius
+
+Animated floating clouds
+
+Requirements:
+
+Wi-Fi connection required for weather data
